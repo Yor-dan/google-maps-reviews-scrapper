@@ -8,7 +8,7 @@ import pandas as pd
 # CONFIG VARIABLES
 GOOGLE_MAPS_URL = "https://www.google.com/maps"
 MAPS_LANGUAGE = "id"
-PLACE_NAME = "Tebet Eco Park"
+PLACE_NAME = "Tebet Eco Park" # <- Set the place name
 MORE_BUTTON_TEXT = "Lainnya"
 REVIEWS_LIMIT = 8000
 OUTPUT_FILE = "result.xlsx"
