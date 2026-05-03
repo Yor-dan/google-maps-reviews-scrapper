@@ -10,7 +10,7 @@ GOOGLE_MAPS_URL = "https://www.google.com/maps"
 MAPS_LANGUAGE = "id"
 PLACE_NAME = "Tebet Eco Park" # <- Set the place name
 MORE_BUTTON_TEXT = "Lainnya"
-REVIEWS_LIMIT = 8000
+REVIEWS_LIMIT = 500
 OUTPUT_FILE = "result.xlsx"
 
 stop_event = threading.Event()
